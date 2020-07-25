@@ -1,6 +1,6 @@
 {
   "name": "@compit/json-map-schema",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collects a json schema by inspecting multiple json objects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
