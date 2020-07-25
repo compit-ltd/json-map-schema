@@ -1,0 +1,21 @@
+{
+  "name": "@compit/json-map-schema",
+  "version": "0.0.1",
+  "description": "Collects a json schema by inspecting multiple json objects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "map",
+    "schema"
+  ],
+  "author": "Eli Goldberg",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
