@@ -13,6 +13,9 @@
     "map",
     "schema"
   ],
+  "repository": {
+    "url": "git@github.com:compit-ltd/json-map-schema"
+  },
   "author": "Eli Goldberg",
   "license": "MIT",
   "devDependencies": {
